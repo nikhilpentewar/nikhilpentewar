@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpentewar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpentewar" /> </p>
 
-- 💬 Ask me about **JavaScript,CSS3,HTML5**
+- 💬 Ask me about 
+- **JavaScript,CSS3,HTML5**
 
-- 📫 How to reach me **pentewarnikhil9730@gmail.com**
+- 📫 How to reach me 
+- **pentewarnikhil9730@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
