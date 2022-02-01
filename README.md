@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpentewar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpentewar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilpentewar" alt="nikhilpentewar" /></a> </p>
-
 - 💬 Ask me about **JavaScript,CSS3,HTML5**
 
 - 📫 How to reach me **pentewarnikhil9730@gmail.com**
