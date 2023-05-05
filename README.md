@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Sass/Less, MySQL**
 
-- 📫 How to reach me **https://nikhilp-portfolio.netlify.app/**
+- 📫 How to reach me **mr.nikhilp09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
