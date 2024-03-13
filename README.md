@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nikhilp-portfolio.netlify.app/](https://nikhilp-portfolio.netlify.app/)
 
-- 💬 Ask me about **Python, Django, SQL, JavaScript, React, Tablue, Power BI**
+- 💬 Ask me about **Python, Django, SQL, JavaScript, Tableau, Power BI, UI/UX, NumPy, Pandas, Postman**
 
 - 📫 How to reach me **nikhilpentewar9730@gmail.com**
 
